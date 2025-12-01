@@ -52,4 +52,4 @@ If you continue development, you can add:
 
 ## 🤝 Author
 **Dev Patel**
-**AI/ML Enthusiast**
+AI/ML Enthusiast
