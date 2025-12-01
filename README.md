@@ -53,4 +53,5 @@ If you continue development, you can add:
 ## 🤝 Author
 
 **Dev Patel**
-B.Tech CSE — AI/ML Enthusiast
+
+**AI/ML Enthusiast**
