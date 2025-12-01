@@ -50,6 +50,6 @@ If you continue development, you can add:
 - Timer & score tracking
 - Highlighting and animations
 
-## 🤝 Author
-**Dev Patel**
-AI/ML Enthusiast
+## 👨‍💻 Author
+**Dev Patel**  
+AI/ML Enthusiast.
