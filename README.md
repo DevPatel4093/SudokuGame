@@ -51,7 +51,5 @@ If you continue development, you can add:
 - Highlighting and animations
 
 ## 🤝 Author
-
 **Dev Patel**
-
 **AI/ML Enthusiast**
