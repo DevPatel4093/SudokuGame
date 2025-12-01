@@ -17,11 +17,13 @@ The solver uses a backtracking algorithm and provides a clean, easy-to-run inter
 ## 📂 Project Structure
 
 SUDOKU/
+
 └── SUDOKU.py
 
 ## 🧠 Algorithm Used
 
 ✔ Backtracking Search
+
 The solver uses:
 
 - Place a valid number
@@ -29,6 +31,7 @@ The solver uses:
 - If stuck → backtrack and try next number
 
 ✔ Constraint Checking
+
 The solver checks:
 
 - Row validity
@@ -50,4 +53,5 @@ If you continue development, you can add:
 ## 🤝 Author
 
 Dev Patel
+
 B.Tech CSE — AI/ML Enthusiast
