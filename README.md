@@ -16,7 +16,7 @@ The solver uses a backtracking algorithm and provides a clean, easy-to-run inter
 
 ## 📂 Project Structure
 ```
-SUDOKU/
+SudokuGame/
 ├── SUDOKU.py
 └── README.md
 ```
